@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stanisław Zdybel</h1>
 <h3 align="center">A passionate backend-developer looking for first job experiance.</h3>
 
-- 🔭 I’m currently working on [CryptoApi](https://github.com/stachoz/BudgetManager)
+- 🔭 I’m currently working on [BudgetManager](https://github.com/stachoz/BudgetManager)
 
 - 🌱 I’m currently learning **Java Spring**
 
