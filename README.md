@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stanisław Zdybel</h1>
 
-- 🔭 I’m currently working on [BudgetManager](https://github.com/stachoz/BudgetManager)
+- 🔭 I’m currently working on [Blog](https://github.com/stachoz/Blog)
 
 - 🌱 I’m currently learning **Java Spring**
 
